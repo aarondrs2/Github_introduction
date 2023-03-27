@@ -4,11 +4,12 @@
 **Author:** Aarón D. Ramírez-Sánchez<br>
 Department of Genetics, University Medical Center Groningen, Netherlands<br>
 
-
 ---
 ## General introduction
 
-Github is a website that uses git server. In the presentation you may find a broad introduction for what is Github. If you want to learn more into details this is a [great source](https://swcarpentry.github.io/git-novice/) that may cover you.<br>
+Github is a website that uses git server. In the presentation you may find a broad introduction for what is Github. 
+
+If you want to learn more into details, clic on this is [great source](https://swcarpentry.github.io/git-novice/) that may cover you.<br>
 
 ![General](/Figures/general.png)
 
@@ -40,12 +41,12 @@ git status
 git log
 ```
 
-###Cloning a repository
+### Cloning a repository
 ```
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
-###Adding all new and modified files (AVOID as much as possible)
+### Adding all new and modified files (AVOID as much as possible)
 ```
 git add -A
 ```
